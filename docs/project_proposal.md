@@ -44,9 +44,9 @@ What will your data pipeline accomplish?
 Plan your 12-week project timeline based on your chosen components:
 
 - **Week 1-3**: Create sample contracts and regulatory framework, set up PostgreSQL database, implement initial text parser and clause extraction and data point transformation.
-- **Week 4-6**: Set up vector database, develop feature engineering pipeline, implement and test ML models to predict likely values for unspecified fields.
-- **Week 7-9**: Integrate LLM for semantic review and gap checking, generate checklists, develop basic user interface for contract upload, displaying checklists, and viewing predicted values
-- **Week 10-12**: Implement RAG-assisted LLM for company playbook generation, end-to-end testing and validation, document results and metrics.
+- **Week 4-6**: Set up vector database, generate checklists, develop basic user interface for contract upload, displaying checklists, and viewing predicted values.
+- **Week 7-9**: Integrate LLM for semantic review and gap checking, implement RAG-assisted LLM for company playbook generation.
+- **Week 10-12**: Develop feature engineering pipeline, implement and test ML models to predict likely values for unspecified fields, perform end-to-end testing and validation, document results and metrics.
 
 ## Approval
 **Instructor Approval**: _________________ **Date**: _________
