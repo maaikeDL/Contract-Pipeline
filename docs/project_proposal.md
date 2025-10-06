@@ -27,8 +27,8 @@ What will your data pipeline accomplish?
     * Automatically generate an up-to-date company playbook summarizing historical contract norms and best practices.
     * Generate draft contracts consistent with the company playbook based on a small set of variables provided by the user (e.g., job title, contract term).
 - **Success Metrics**: 
-* >50% reduction in manual review and drafting time 
-* >90% accuracy in output
+* Over 50% reduction in manual review and drafting time 
+* Minimum of 90% accuracy in output
 * Bonus: amount of unexpected risks flagged
  
 ## Technical Approach
