@@ -1,0 +1,7 @@
+{
+  "host": "localhost",
+  "port": 5432,
+  "dbname": "contracts_db",
+  "user": "postgres",
+  "password": "M@@ikedel00ff"
+}
