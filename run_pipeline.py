@@ -3,13 +3,13 @@ import os
 from contract_pipeline import ContractPipeline
 
 # Load DB config
-with open("config.json", "r", encoding="utf-8") as f:
+with open("config/config.json", "r", encoding="utf-8") as f:
     db_config = json.load(f)
 
 pipeline = ContractPipeline(db_config)
 
 # Process all .txt files in the contracts folder
-folder = "contracts"
+folder = "data/raw"
 for filename in sorted(os.listdir(folder)):
     if not filename.lower().endswith(".txt"):
         continue
